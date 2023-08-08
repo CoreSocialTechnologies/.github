@@ -1,4 +1,4 @@
-[![CoreSocialSpace](https://github.com/CoreSocialTechnologies/.github/blob/main/images/master_banner.png)](https://github.com/CoreSocialTechnologies)
+[![CoreSocialSpace](https://github.com/CoreSocialTechnologies/.github/blob/main/images/master_banner.png)](https://coresocialtechnologies.space)
 
 ## CoreProjects
 Check out what CoreSocialTechnologies is building for businesses and customers using the Web.
