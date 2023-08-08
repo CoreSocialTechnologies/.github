@@ -1,13 +1,14 @@
 [![CoreSocialSpace](https://github.com/CoreSocialTechnologies/.github/blob/main/images/master_banner_new.png)](https://coresocialtechnologies.space)
 
-## CoreProjects
-Check out what CoreSocialTechnologies is building for businesses and customers using the Web.
+## Core Products
+Check out what **CoreSocialTechnologies** is building for businesses and customers using the Web.
 
 * [CoreSocial](https://coresocial.space)
 * [CoreMessages](https://coremessages.space)
 * [CoreMarket](https://coremarket.space)
 * [CorePay](https://corepay.space)
 * [CoreCredit](https://corecredit.space)
+* [CoreSafetyCenter](https://coresocial.space/coresafetycenter/)
 
 Visit [coresocialtechnologies.space](https://coresocialtechnologies.space) to learn more!
 
