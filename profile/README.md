@@ -1,4 +1,4 @@
-[![CoreSocialSpace](https://github.com/CoreSocialTechnologies/.github/blob/main/images/master_banner_new.png)](https://github.com/CoreSocialTechnologies)
+[![CoreSocialSpace](https://github.com/CoreSocialTechnologies/.github/blob/main/images/master_banner.png)](https://github.com/CoreSocialTechnologies)
 
 ## CoreProjects
 CoreSocialTechnologies is building tailored experiences for customers.
