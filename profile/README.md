@@ -13,4 +13,4 @@ Visit [coresocialtechnologies.space](https://coresocialtechnologies.space) to le
 
 ----
 
-CoreSocialTechnologies projects adapt the [CoreSocialTechnologies Code of Conduct](https://coresocialtechnologies/codeofconduct/). For more information see [Code of Conduct FAQ](https://coresocialtechnologies/codeofconduct/faq/).
+CoreSocialTechnologies projects adapt the [CoreSocialTechnologies Code of Conduct](https://coresocialtechnologies.space/codeofconduct/). For more information see [Code of Conduct FAQ](https://coresocialtechnologies.space/codeofconduct/faq/).
